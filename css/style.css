@@ -14,7 +14,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: url(/weatherimg/back.avif);
+  background: url(/weatherimg/background.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
